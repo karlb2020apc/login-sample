@@ -50,11 +50,19 @@ session_start();
 <html>
 <head>
 	<title>Login</title>
+	<style> 
+	body {
+background-image: url("pictures/pexels-sikes-photos-3975266.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
 </head>
 <body>
 
 	<style type="text/css">
-	
+
 	#text{
 
 		height: 25px;

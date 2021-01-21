@@ -38,7 +38,12 @@ session_start();
 <body>
 
 	<style type="text/css">
-	
+	body {
+  background-image: url("pictures/pexels-photo-212285.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
 	#text{
 
 		height: 25px;
